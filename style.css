@@ -1,0 +1,43 @@
+/*
+Theme name: design theme wordpress
+Theme uri: http://theme-iralupanh.c9users.io
+Author: lupanh nguyen
+Author uri: http://news-iralupanh.c9users.io
+Version: 1.0.0
+Description: design html5, css3, 960 Grid System, reponsize
+Tags: Basic theme, Multipurpose, Practive
+Text Domain: lupanh
+*/
+
+
+ .comment-body .comment-author img{
+    width: 50px;
+    height:50px;
+    border-radius:26px;
+}
+.right-sidebar ul{
+ background-color: #1E1E1E;
+ margin-left: 0px !important;
+ padding-left: 20px;
+}
+.content ul li a{
+ color: #959595!important;
+}
+.content ul li a:hover{
+ color: #ED1447!important;
+}
+
+.more a:hover{
+ color: #47061b!important;
+}
+.comment-form-author label{
+ margin-right: 53px;
+}
+.comment-form-url label{
+ margin-right: 18px;
+}
+
+span ._5mdd {
+    word-wrap: break-word;
+    color: #E5E5E5!important;
+}
